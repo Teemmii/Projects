@@ -1,4 +1,4 @@
-# Projects
+# Plant Seedling Project
 
 Objective:
 The aim of this project is to use a deep learning model to classify plant seedlings through supervised learning.
